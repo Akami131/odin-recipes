@@ -1,0 +1,9 @@
+h1,
+h2,
+h3 {
+    background-color: azure;
+}
+
+ul li:nth-child(2n){
+    background-color: salmon;
+}
