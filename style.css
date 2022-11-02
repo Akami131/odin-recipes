@@ -1,0 +1,22 @@
+body {
+    font-family: 'Courier New', serif;
+}
+h1 {
+    font-style: italic;
+    background-color: antiquewhite;
+}
+li {
+    line-height: 200%;
+}
+
+.beef {
+    font-size: large;
+}
+
+.cake {
+    font-size: medium;
+}
+
+.zoodles {
+    font-size: small;
+}
